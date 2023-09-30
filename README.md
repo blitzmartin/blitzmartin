@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **demartinodev@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FNPAxCkr41CEn5zgmE-9okD0WPR0y1eQ/view](https://drive.google.com/file/d/1RB7LVDnapOhc_yOL2PG9GCbCZUTD8Wm0/view?usp=sharing)]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1FNPAxCkr41CEn5zgmE-9okD0WPR0y1eQ/view](https://drive.google.com/file/d/1RB7LVDnapOhc_yOL2PG9GCbCZUTD8Wm0/view?usp=sharing)
 
 - ⚡ Fun fact **I was a professional audio engineer and soundtrack composer for 10 years**
 
