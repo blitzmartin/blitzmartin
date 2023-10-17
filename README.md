@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.demartinodev.com](https://www.demartinodev.com)
 
-- 💬 Ask me about **React, HTML, CSS, Javascript and memes**
+- 💬 Ask me about **React, TypeScript and memes**
 
 - 📫 How to reach me **demartinodev@gmail.com**
 
