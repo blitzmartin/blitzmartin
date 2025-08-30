@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Liz!</h1>
 <h3 align="center">A passionate frontend developer from Italy</h3>
 
-- 🌱 I’m currently working as **React Developer**
+- 🌱 I’m currently working as **Full-stack Developer**
 
 - 👨‍💻 All of my projects are available at [https://www.demartinodev.com](https://www.demartinodev.com)
 
-- 💬 Ask me about **React, TypeScript and memes**
+- 💬 Ask me about **React and memes**
 
 - 📫 How to reach me **demartinodev@gmail.com**
 
