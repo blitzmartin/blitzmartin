@@ -3,13 +3,9 @@
 
 - 🌱 I’m currently working as **Full-stack Developer**
 
-- 👨‍💻 All of my projects are available at [https://www.demartinodev.com](https://www.demartinodev.com)
-
-- 💬 Ask me about **React and memes**
+- 👨‍💻 Trying to bring back people-centered technology at [Paper Board Labs](https://www.paperboardlabs.com)
 
 - 📫 How to reach me **demartinodev@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FNPAxCkr41CEn5zgmE-9okD0WPR0y1eQ/view](https://drive.google.com/file/d/1RB7LVDnapOhc_yOL2PG9GCbCZUTD8Wm0/view?usp=sharing)
 
 - ⚡ Fun fact **I was a professional audio engineer and soundtrack composer for 10 years**
 
