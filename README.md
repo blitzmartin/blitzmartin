@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Liz!</h1>
-<h3 align="center">A passionate frontend developer from Italy</h3>
+<h3 align="center">developer & cybersecurity enthusiast</h3>
 
-- 🌱 I’m currently working as **Full-stack Developer**
+- 🌱 Currently working as **Full-stack Developer**
 
 - 👨‍💻 Trying to bring back people-centered technology at [Paper Board Labs](https://www.paperboardlabs.com)
 
