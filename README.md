@@ -5,7 +5,7 @@
 
 - 👨‍💻 Trying to bring back people-centered technology at [Paper Board Labs](https://www.paperboardlabs.com)
 
-- 📫 How to reach me **demartinodev@gmail.com**
+- 📫 How to reach me **paperboardlabs@gmail.com**
 
 - ⚡ Fun fact **I was a professional audio engineer and soundtrack composer for 10 years**
 
